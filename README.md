@@ -2,6 +2,8 @@
 
 A NASA Eyes-inspired first-stage solar-system viewer with the Sun, all eight planets, the Moon, ten additional moons, and Pluto (a dwarf planet), not the complete universal catalog. Planet globes use real-data-derived Solar System Scope maps except Pluto and ten additional moons, which use a shared illustrative procedural texture labeled artist’s concept. Lighting, cloud rendering, and atmospheric glow are illustrative. Facts are approximate. Earth cloud layer is a static texture, not live weather. The starfield is decorative.
 
+![WORLDS interactive solar-system viewer](public/worlds-preview.png)
+
 ## Run
 
 Install Node.js 20+, then:
