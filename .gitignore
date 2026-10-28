@@ -1,0 +1,7 @@
+node_modules/
+dist/
+
+# Local tooling and editor files
+.vscode/
+.DS_Store
+*.log
